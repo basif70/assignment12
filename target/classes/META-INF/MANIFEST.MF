@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: asif.shapurkar
+Build-Jdk: 11.0.14
+Implementation-Title: Assignment
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.algodomain.assignment
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-boot-rest-api-tutorial
+Created-By: Maven Integration for Eclipse
+
